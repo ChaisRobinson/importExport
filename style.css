@@ -1,0 +1,42 @@
+body{
+    background-color: tan;
+}
+.container {
+    border: 1px solid #ccc;
+    padding: 1.5em;
+    margin: 1em 0;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(187, 123, 40);
+}
+.dashboard {
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(187, 123, 40);
+    
+}
+.spacer {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.sprintContainer {
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(187, 123, 40);
+}
+.photoContainer {
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(187, 123, 40);
+}
+.commentContainer {
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(187, 123, 40);
+}
